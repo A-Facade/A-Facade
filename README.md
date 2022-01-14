@@ -1,30 +1,8 @@
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hi, I’m Shaun Davis!
 
+I'm a university student that's currently learning game programming
+On my GitHub, you'll probably only find my website portfolio for now, but in the future I plan to upload the code for games I have made
 
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+If you want to speak to me to give me any helpful advice or just to talk to me about games, then you can contact me on my twitter or my LinkedIn (Both can be found in my website portfolio, or in the linktree below, including my website)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+https://linktr.ee/ShaunDavis
